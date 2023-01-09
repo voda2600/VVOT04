@@ -1,0 +1,1 @@
+CREATE TABLE photo_faces(id Int64, name String, photo_key String, face_key String, user_chat_id Int64, PRIMARY KEY (id));

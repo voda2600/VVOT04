@@ -50,4 +50,27 @@
 
 ![image](https://user-images.githubusercontent.com/24254731/211376104-fdc6e913-3dcf-4d14-97d5-eee1bbb9e1bd.png)
 
+Yandex Object Storage
+
+Yandex Cloud Functions
+
+Yandex API Gateway
+
+Yandex Managed Service for YDB
+
+Yandex Serverless Containers
+
+Yandex Message Queue
+
+Yandex Container Registry
+
+Yandex Key Management Service
+
+Yandex Resource Manager
+
+Yandex Vision
+
+CLI Yandex Cloud
+
+Telegram Bot API
 

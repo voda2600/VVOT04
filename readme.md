@@ -43,3 +43,6 @@
 Мой бот: https://t.me/ilnur_vvot04_bot
 Команды для бота: /getface, /find
 
+![image](https://user-images.githubusercontent.com/24254731/211376104-fdc6e913-3dcf-4d14-97d5-eee1bbb9e1bd.png)
+
+
